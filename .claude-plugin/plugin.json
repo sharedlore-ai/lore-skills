@@ -1,0 +1,8 @@
+{
+  "name": "lore",
+  "version": "0.1.0",
+  "description": "SharedLore - your team's shared context layer for AI agents",
+  "author": {
+    "name": "SharedLore"
+  }
+}
