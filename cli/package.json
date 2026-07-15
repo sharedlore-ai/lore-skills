@@ -1,0 +1,24 @@
+{
+  "name": "@sharedlore/cli",
+  "version": "0.1.0",
+  "description": "The SharedLore CLI - log in, link a project, and capture team lore from your terminal.",
+  "type": "module",
+  "bin": {
+    "lore": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.5.0"
+  }
+}

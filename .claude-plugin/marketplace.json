@@ -1,0 +1,14 @@
+{
+  "name": "sharedlore",
+  "owner": {
+    "name": "SharedLore"
+  },
+  "plugins": [
+    {
+      "name": "lore",
+      "description": "SharedLore - your team's shared context layer for AI agents",
+      "version": "0.1.2",
+      "source": "."
+    }
+  ]
+}
